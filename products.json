@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "name": "Vintage T-shirt",
+            "description": "Tie-die Grateful Dead T-shirt",
+            "price": "$35",
+            "categories": [
+                "clothing",
+                "vintage"
+            ]
+        },
+        {
+            "name": "Leather Jacket",
+            "description": "Classic black leather jacket",
+            "price": "$150",
+            "categories": [
+                "clothing",
+                "outerwear"
+            ]
+        },
+        {
+            "name": "Bluetooth Speaker",
+            "description": "Portable wireless speaker",
+            "price": "$50",
+            "categories": [
+                "electronics",
+                "audio"
+            ]
+        },
+        {
+            "name": "Smart Watch",
+            "description": "Waterproof fitness tracker",
+            "price": "$100",
+            "categories": [
+                "electronics",
+                "wearable"
+            ]
+        },
+        {
+            "name": "Leather Wallet",
+            "description": "Classic black leather wallet",
+            "price": "$25",
+            "categories": [
+                "accessories",
+                "wallet"
+            ]
+        },
+        {
+            "name": "Baseball Cap",
+            "description": "Classic black baseball cap",
+            "price": "$20",
+            "categories": [
+                "accessories",
+                "hat"
+            ]
+        },
+        {
+            "name": "Leather Belt",
+            "description": "Classic black leather belt",
+            "price": "$30",
+            "categories": [
+                "accessories",
+                "belt"
+            ]
+        },
+        {
+            "name": "Leather Boots",
+            "description": "Classic black leather boots",
+            "price": "$100",
+            "categories": [
+                "clothing",
+                "footwear"
+            ]
+        },
+        {
+            "name": "Leather Bag",
+            "description": "Classic black leather bag",
+            "price": "$75",
+            "categories": [
+                "accessories",
+                "bag"
+            ]
+        },
+        {
+            "name": "Macbook",
+            "description": "13-inch Macbook Pro",
+            "price": "$1200",
+            "categories": [
+                "electronics",
+                "laptop"
+            ]
+        }
+    ]
+}
